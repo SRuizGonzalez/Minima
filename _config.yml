@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Blog analizando y resumen de las últimas 5 jornadas del Racing De Santander (temporada 2025/26),
   actualizado desde el 13 de noviembre de 2025.
 baseurl: "/minima" # the subpath of your site, e.g. /blog
-url: "https://github.com/SRuizGonzalez" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://SRuizGonzalez.GitHub.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: SamuelRMinima
 github_username:  SRuizGonzalez
 
