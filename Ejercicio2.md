@@ -15,14 +15,17 @@
 ![Captura3](IMG/Larange3.png)
 
 ## PASO 4
+4. Entrar en **GitHub Pages** y comprobar que se ha construido.
+![Captura4](IMG/Lagrange8.png)
+## PASO 5
 
-4. Iremos a la web para comprobar que esta funcionando todo correctamente
+1. Iremos a la web para comprobar que esta funcionando todo correctamente
 ![Captura4](IMG/Larange4.png)
 
-## PASO 5
+## PASO 6
 5. Ya he acababo la web lo siguiente
 ![Captura5](IMG/Larange5.png)
 
-## PASO 6
+## PASO 7
 6. Hacemos un `git push` para subir al **GitHub Pages**
 ![Captura6](IMG/Larange6.png)
