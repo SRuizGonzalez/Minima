@@ -28,3 +28,19 @@
 ## PASO 7
 7. Ahora editaremos el about me.md y pondremos todo lo nuestro.
 ![Captura7](IMG/Beautiful8.png)
+
+## PASO 8
+8. El siguiente paso sera entrar en la web de netlify y añadir nuestra cuenta de **GitHub**
+![Captura8](IMG/Beautifl10.png)
+
+## PASO 9
+9. Aqui ya vemos que estan todos nuestros repositorios en el netlify
+![Captura9](IMG/Beautiful11.png)
+
+## PASO 10
+10. Ya esta todo el build echo aunque he tenido algunos problemas en hacerlo,para ello e tenifo que subir el **_site** a **GitHub** y luego cambiaremos el **_config.yml** poniendo la url de nuestra pagina de netlify.
+![Captura10](IMG/Beautiful12.png)
+
+## PASO 11
+11. Veremos nuestro tema en netlify y funcionando correctamente.
+![Captura11](IMG/Beautiful13.png)
